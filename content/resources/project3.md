@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 165369bd-9cae-6e27-8ce3-39da9d42e1ea
 resourcetype: Document
 title: 'Project 3: Visualization Teaching and Counter-Visualization '
 uid: d85510b5-4302-f316-499a-2d1686d79f55

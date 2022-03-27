@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 165369bd-9cae-6e27-8ce3-39da9d42e1ea
 resourcetype: Document
 title: 'Project 1: Archaeology of a Visualization'
 uid: 9df281eb-b47c-6a2c-8709-165921a95125

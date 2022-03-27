@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 165369bd-9cae-6e27-8ce3-39da9d42e1ea
 resourcetype: Document
 title: 'Project 2: Genealogy of a Visualizer'
 uid: fb0d8c6c-def0-7e46-1e96-d39187b41e47
