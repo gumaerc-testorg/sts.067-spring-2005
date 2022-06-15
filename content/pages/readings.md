@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations for the readings required for the course.,
+  organized by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -2,7 +2,7 @@
 content_type: resource
 description: Different two-dimensional projections of the globe affect the way we
   view the world. (Images courtesy of Wikimedia Commons.)
-file: /media/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d859cf49c63ab58412d69d25339d970e_sts-067s05-th.jpg
+file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d859cf49c63ab58412d69d25339d970e_sts-067s05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Different two-dimensional projections of the globe affect the way we view
@@ -15,3 +15,5 @@ resourcetype: Image
 title: Two-dimensional Projections of the Globe (thumbnail)
 uid: d859cf49-c63a-b584-12d6-9d25339d970e
 ---
+Different two-dimensional projections of the globe affect the way we view the world. (Images courtesy of Wikimedia Commons.)
+
