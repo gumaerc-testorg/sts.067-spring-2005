@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 1
 uid: 4b9614d1-de50-b750-74d2-7e22a2b1ce53
 ---
 Assignment on visualizations that give a meaningful account of the internet.
-

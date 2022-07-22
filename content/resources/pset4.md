@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4
 uid: 17d73879-5de8-0db3-7773-11450cda0362
 ---
 Assignment on what motion adds to photographs, diagrams, and description.
-

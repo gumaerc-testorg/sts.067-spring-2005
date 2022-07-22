@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Mercator and other map projections.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Two-dimensional Projections of the Globe (thumbnail)
 uid: d859cf49-c63a-b584-12d6-9d25339d970e
 ---
 Different two-dimensional projections of the globe affect the way we view the world. (Images courtesy of Wikimedia Commons.)
-

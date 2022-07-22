@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 1: Archaeology of a Visualization'
 uid: 9df281eb-b47c-6a2c-8709-165921a95125
 ---
 Project on the archaeology of a visualization.
-

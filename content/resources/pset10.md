@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 10
 uid: c8e0a198-2d70-a659-56c5-a5a93d40de88
 ---
 Assignment to give a presentation on the final project for the course.
-

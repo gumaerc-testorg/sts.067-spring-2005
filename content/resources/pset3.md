@@ -6,6 +6,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 3
 uid: 454df375-d545-8015-52e0-ebc08e8979c0
 ---
 Assignment on Hacking’s concept of "seeing," Kaiser’s of "realism," and Galison’s of "no raw data."
-

@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 6
 uid: 05329e9d-563a-4961-f2fc-8ba778b1d13a
 ---
 Assignment on visualizing world data, GIS, and climate change.
-

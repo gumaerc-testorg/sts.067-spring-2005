@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Two-dimensional Projections of the Globe
 uid: 02353e0c-ec6f-21e3-f331-570b7e79fef9
 ---
 Different two-dimensional projections of the globe affect the way we view the world. (Images courtesy of Wikimedia Commons.)
-

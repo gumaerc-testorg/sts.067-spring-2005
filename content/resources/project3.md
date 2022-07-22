@@ -5,6 +5,7 @@ file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-in
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 3: Visualization Teaching and Counter-Visualization '
 uid: d85510b5-4302-f316-499a-2d1686d79f55
 ---
 Project on visualization teaching and counter-visualization.
-
