@@ -3,10 +3,12 @@ content_type: resource
 description: Different two-dimensional projections of the globe affect the way we
   view the world. (Images courtesy of Wikimedia Commons.)
 file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d859cf49c63ab58412d69d25339d970e_sts-067s05-th.jpg
+file_size: 5829
 file_type: image/jpeg
 image_metadata:
   caption: Different two-dimensional projections of the globe affect the way we view
-    the world. (Images courtesy of [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page).)
+    the world. (Images courtesy of {{% resource_link "8f4b1a69-324c-4211-ba5e-64b2f5bc0a20"
+    "Wikimedia Commons" %}}.)
   credit: ''
   image-alt: Mercator and other map projections.
 learning_resource_types: []
