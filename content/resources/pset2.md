@@ -5,6 +5,7 @@ description: This assignment asks students to discuss the visualization for the 
   Visible Human projects on the web and to write about visual power in each of the
   articles in the week's required reading.
 file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/ffb45d8c342f84703270d4e382aaf6d6_pset2.pdf
+file_size: 72660
 file_type: application/pdf
 learning_resource_types:
 - Assignments

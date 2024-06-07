@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to give a presentation on the final project for the course.
 file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/c8e0a1982d70a65956c5a5a93d40de88_pset10.pdf
+file_size: 37077
 file_type: application/pdf
 learning_resource_types:
 - Assignments
