@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for preparing for course assignments.
 file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/a870757cb448ab9b39b2d055788334ad_instr_guide.pdf
+file_size: 63150
 file_type: application/pdf
 learning_resource_types:
 - Assignments

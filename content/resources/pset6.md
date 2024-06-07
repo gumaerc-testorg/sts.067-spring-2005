@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on visualizing world data, GIS, and climate change.
 file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/05329e9d563a4961f2fc8ba778b1d13a_pset6.pdf
+file_size: 84044
 file_type: application/pdf
 learning_resource_types:
 - Assignments
