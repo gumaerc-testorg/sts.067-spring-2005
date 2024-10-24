@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project on the archaeology of a visualization.
-file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/9df281ebb47c6a2c8709165921a95125_project1.pdf
+file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/9df281ebb47c6a2c8709165921a95125_project1.pdf
 file_size: 54949
 file_type: application/pdf
 learning_resource_types:
