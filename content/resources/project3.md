@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project on visualization teaching and counter-visualization.
-file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d85510b54302f316499a2d1686d79f55_project3.pdf
+file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d85510b54302f316499a2d1686d79f55_project3.pdf
 file_size: 67615
 file_type: application/pdf
 learning_resource_types:

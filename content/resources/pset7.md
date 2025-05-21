@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on visualization and models on climate change.
-file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/7e4625c7aee318c4574aa9686d0b4c1b_pset7.pdf
+file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/7e4625c7aee318c4574aa9686d0b4c1b_pset7.pdf
 file_size: 67120
 file_type: application/pdf
 learning_resource_types:

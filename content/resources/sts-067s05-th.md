@@ -2,7 +2,7 @@
 content_type: resource
 description: Different two-dimensional projections of the globe affect the way we
   view the world. (Images courtesy of Wikimedia Commons.)
-file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d859cf49c63ab58412d69d25339d970e_sts-067s05-th.jpg
+file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/d859cf49c63ab58412d69d25339d970e_sts-067s05-th.jpg
 file_size: 5829
 file_type: image/jpeg
 image_metadata:
