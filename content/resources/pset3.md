@@ -2,7 +2,7 @@
 content_type: resource
 description: "Assignment on Hacking\u2019s concept of \"seeing,\" Kaiser\u2019s of\
   \ \"realism,\" and Galison\u2019s of \"no raw data.\""
-file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/454df375d545801552e0ebc08e8979c0_pset3.pdf
+file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/454df375d545801552e0ebc08e8979c0_pset3.pdf
 file_size: 41249
 file_type: application/pdf
 learning_resource_types:
