@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Product to interview someone who produces scientific visualizations.
-file: /courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/fb0d8c6cdef07e461e96d39187b41e47_project2.pdf
+file: /ol-ocw-studio-app/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/fb0d8c6cdef07e461e96d39187b41e47_project2.pdf
 file_size: 86526
 file_type: application/pdf
 learning_resource_types:
