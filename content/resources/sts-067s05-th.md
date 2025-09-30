@@ -7,7 +7,8 @@ file_size: 5829
 file_type: image/jpeg
 image_metadata:
   caption: Different two-dimensional projections of the globe affect the way we view
-    the world. (Images courtesy of [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page).)
+    the world. (Images courtesy of {{% resource_link "adb67651-f591-477f-837e-d3eeeeefa942"
+    "Wikimedia Commons" %}}.)
   credit: ''
   image-alt: Mercator and other map projections.
 learning_resource_types: []

@@ -51,7 +51,7 @@ Gladwell, Malcolm. "The Picture Problem." _The New Yorker_, December 13, 2004, p
 
 Keller, E. F. "The Biological Gaze." In _FutureNatural: Nature, Science, Culture_. Edited by G. Robertson. New York, NY: Routledge, 1996. ISBN: 9780415070140.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620765) Lynch, M. "The Externalised Retina: Selection and Mathematization in the Visual Documentation of Objects in the Life Sciences." [_Representation in Scientific Practice_](https://mitpress.mit.edu/9780262620765). 1st ed. Edited by Michael Lynch, and Steve Woolgar. Cambridge, MA: MIT Press, 1990. ISBN: 9780262620765.
+{{% resource_link "8b221c9c-b2cc-4748-978b-f2a609c1a56b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, M. "The Externalised Retina: Selection and Mathematization in the Visual Documentation of Objects in the Life Sciences." {{% resource_link "8b221c9c-b2cc-4748-978b-f2a609c1a56b" "_Representation in Scientific Practice_" %}}. 1st ed. Edited by Michael Lynch, and Steve Woolgar. Cambridge, MA: MIT Press, 1990. ISBN: 9780262620765.
 
 Schaffer, Simon. "Astronomers Mark Time: Discipline and the Personal Equation." _Science in Context_ 2 (1988): 115-145.
 
@@ -150,7 +150,7 @@ Landecker, Hannah L. Technologies of Living Substance: Tissue Culture and Cellul
 
 A, Cambrosio, Jacobi D, and Keating P. "Ehrlich's 'Beautiful Pictures' and the controversial beginnings of immunological imagery." _Isis_ 84, no. 4 (December 1993): 662-99.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620765) Bastide, Francoise. "The Iconography of Scientific Texts: Principles of Analysis." [_Representation in Scientific Practice_](https://mitpress.mit.edu/9780262620765). 1st ed. Edited by Michael Lynch, and Steve Woolgar. Cambridge, MA: MIT Press, 1990. ISBN: 9780262620765.
+{{% resource_link "8b221c9c-b2cc-4748-978b-f2a609c1a56b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bastide, Francoise. "The Iconography of Scientific Texts: Principles of Analysis." {{% resource_link "8b221c9c-b2cc-4748-978b-f2a609c1a56b" "_Representation in Scientific Practice_" %}}. 1st ed. Edited by Michael Lynch, and Steve Woolgar. Cambridge, MA: MIT Press, 1990. ISBN: 9780262620765.
 
 
 {{< tdclose >}}
@@ -191,11 +191,11 @@ Arguing about World Data: GIS and Climate Change
 
 Edwards, Paul N. "Global Climate Science, Uncertainty and Politics: Data-laden Models, Model-Filtered Data." _Science as Culture_ 8, no. 4 (1999): 437-472.
 
-[Erich Schienke - Images Documente](http://www.rpi.edu/)
+{{% resource_link "25d5c41a-f3d5-437d-8e3a-8c5759333029" "Erich Schienke - Images Documente" %}}
 
-Center of Science and Technology Policy Research. Cooperative Institute for Research in Environmental Sciences, University of Colorodo at Boulder, Newsletter [Ogmius: Decision Making and Climate Change](http://sciencepolicy.colorado.edu/ogmius/archives/issue_5/), May 2003 issue.
+Center of Science and Technology Policy Research. Cooperative Institute for Research in Environmental Sciences, University of Colorodo at Boulder, Newsletter {{% resource_link "008baadc-84e6-487a-a2f4-c9eb1d51ff76" "Ogmius: Decision Making and Climate Change" %}}, May 2003 issue.
 
-Oreskes, Naomi. "Beyond the Ivory Tower: The Scientific Consensus on Climate Change." [Science](http://www.sciencemag.org/) 306 (December 3, 2004): 1686. Published by AAAS.
+Oreskes, Naomi. "Beyond the Ivory Tower: The Scientific Consensus on Climate Change." {{% resource_link "ed2e89bc-0642-4f98-8400-d6e00cc594d9" "Science" %}} 306 (December 3, 2004): 1686. Published by AAAS.
 
 ———. "The Role of Quantitative Models in Science." In _The Role of Models in Ecosystem Science_. Edited by Charles D. Canham, Jonathan J. Cole, and William K. Lauenroth. Princeton, NJ: Princeton University Press, 2003.
 
